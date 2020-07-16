@@ -11,7 +11,7 @@ Also, according to the World Health Organization, cardiovascular diseases are th
 In this notebook we try to learn enough information of this topic to understand the Heart Disease UCI dataset and build simple models to predict whether a patient has a disease or not based on features like the heart rate during exercise or the cholesterol levels in the blood.
 
 
-# Dataset & dataset problems
+## Dataset & dataset problems
 
 This dataset is hosted on Kaggle (Heart Disease UCI), and it was from UCI Machine Learning Repository. There are records of about 300 patients from Cleveland and the features are described in a following section.
 Part of these differences is that there were a few null values in the original dataset that have taken some values here:
@@ -24,7 +24,7 @@ Because these are just a few instances, I decided to drop them.
 There are also some differences regarding the features of the dataset which are corrected below.
 
 
-Heart_Disease_classification.ipynb: iPython notebook to read in the data, store them in a Pandas dataframe for initial processing and plots, and analyze with a logistic regression model. 
+## Heart_Disease_classification.ipynb: iPython notebook to read in the data, store them in a Pandas dataframe for initial processing and plots, and analyze with a logistic regression model. 
 For this project I applied a logistic regression model to the Cleveland Heart Disease data set.
 This was my final project in the EMK Center Data Science Camp.
 
