@@ -24,7 +24,9 @@ Because these are just a few instances, I decided to drop them.
 There are also some differences regarding the features of the dataset which are corrected below.
 
 
-## Heart_Disease_classification.ipynb: iPython notebook to read in the data, store them in a Pandas dataframe for initial processing and plots, and analyze with a logistic regression model. 
+## Heart_Disease_classification.ipynb:
+iPython notebook to read in the data, store them in a Pandas dataframe for initial processing and plots, and analyze with a logistic regression model. 
 For this project I applied a logistic regression model to the Cleveland Heart Disease data set.
+
 This was my final project in the EMK Center Data Science Camp.
 
